@@ -1,3 +1,10 @@
+/* 
+    Author: Vijay Thapa;
+    Theme: Restaurant Food Order;
+    version: 1.0;
+*/
+
+/* CSS for All */
 *{
     margin: 0 0;
     padding: 0 0;
@@ -103,8 +110,9 @@ fieldset{
 /* CSS for Food SEarch Section */
 
 .food-search{
-    background-image: url(../images/bg.jpg);
+    background-image: url('https://images.pexels.com/photos/4913313/pexels-photo-4913313.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
     background-position: center;
     padding: 7% 0;
