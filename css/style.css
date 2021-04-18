@@ -41,11 +41,11 @@
 }
 
 a{
-    color: #ff6b81;
+    color: #0D4F8B;
     text-decoration: none;
 }
 a:hover{
-    color: #ff4757;
+    color: #808080	;
 }
 
 .btn{
@@ -55,13 +55,13 @@ a:hover{
     border-radius: 5px;
 }
 .btn-primary{
-    background-color: #ff6b81;
+    background-color: #00688B;
     color: white;
     cursor: pointer;
 }
 .btn-primary:hover{
     color: white;
-    background-color: #ff4757;
+    background-color: #50A6C2;
 }
 h2{
     color: #2f3542;
@@ -110,9 +110,8 @@ fieldset{
 /* CSS for Food SEarch Section */
 
 .food-search{
-    background-image: url('https://images.pexels.com/photos/4913313/pexels-photo-4913313.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-image: url(../images/bg.jpg);
     background-size: cover;
-    object-fit: contain;
     background-repeat: no-repeat;
     background-position: center;
     padding: 7% 0;
